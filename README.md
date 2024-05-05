@@ -28,18 +28,15 @@
 <td width="50%">
 <h3 align="center">Parque Gallaecia</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/soocratess/ParqueGallaecia" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/soocratess/ParqueGallaecia" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Este proyecto desarrolla una <strong> aplicación en Java </strong> para la gestión integral de un parque de atracciones, conectada a una <strong> base de datos MySQL </strong>. Permite administrar atracciones, restaurantes, hoteles y empleados, mejorando la experiencia de los visitantes y optimizando las operaciones internas del parque.</p>
 </div>
-                                                              
+  
 </td>
 </table>                                                                                 
 </div>
