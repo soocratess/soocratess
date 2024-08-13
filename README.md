@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-- 📱 Desarrollador Junior apasionado por la ciberseguridad
+- 📱 Desarrollador Junior de software
 - 🎓 Estudiante de Ingeniería Informática en la Universidad de Santiago de Compostela
 - 🖥️ Proyectos destacados en mi perfil
 - 🎵 Grado Profesional en Clarinete por el Conservatorio de Música de Vilagarcía
